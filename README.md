@@ -2,4 +2,4 @@
 
 2048 game + python3 + tkinter
 
-<center>![title](/gui_image.JPG){: width="432" height="612"}</center>
+![2048_gui_image](/gui_image.JPG)
